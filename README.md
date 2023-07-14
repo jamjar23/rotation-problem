@@ -12,6 +12,6 @@ As we will see (or may be obvious already), the intuitive response tends to be (
 
 This notebook examines whether or not this is in fact so.
 
-(Problem sourced from Twitter user [@quantian1])
+(Problem sourced from Twitter user [@quantian1], I have amended the standard deviation used for $Y$ to better illustrate differneces.)
 
 [@quantian1]: https://twitter.com/quantian1/status/1673358773178585091?s=20

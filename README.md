@@ -6,7 +6,7 @@ If we:
 - plot on the Cartesian coordinates *(x,y)* and then rotate by 45 degrees, 
 - then perform regression using ordinary least squares (OLS),  
 
-what is the expected value of *$b_1$ (the estimated coefficient of *x*)?
+what is the expected value of $b_1$ (the estimated coefficient of *x*)?
 
 As we will see (or may be obvious already), the intuitive response tends to be (because we have rotated by 45 degrees) that the answer is $E[b_1]=1$
 

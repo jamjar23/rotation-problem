@@ -2,7 +2,7 @@
 Comparing intuition and reality in estimating lines of best fit.
 
 If we:
-- generate *n* observations, *X ~ Normal(0,1)* and *Y ~ Normal(0,0.2) [where the second value represents standard deviation], 
+- generate *n* observations, *X ~ Normal(0,1)* and *Y ~ Normal(0,0.2)* [where the second value represents standard deviation], 
 - plot on the Cartesian coordinates *(x,y)* and then rotate by 45 degrees, 
 - then perform regression using ordinary least squares (OLS),  
 
